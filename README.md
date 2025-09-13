@@ -1,3 +1,4 @@
+![Mô tả ảnh](/images/header_rintarytaziru.png)
 ## 🌿 RintaryTaziru 🍁
 
 Xin chào 🍁, tôi là **một lập trình viên nhỏ tuổi đến từ Việt Nam 🍨**.  
